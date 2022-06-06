@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/bin/Debug/net5.0/Loops.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/bin/Debug/net5.0/Loops.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/bin/Debug/net5.0/Loops.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/bin/Debug/net5.0/Loops.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/bin/Debug/net5.0/ref/Loops.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/bin/Debug/net5.0/Loops.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/Loops.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/Loops.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/Loops.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/Loops.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/Loops.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/ref/Loops.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/Loops.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/Loops/obj/Debug/net5.0/Loops.genruntimeconfig.cache
